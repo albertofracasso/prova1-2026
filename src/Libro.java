@@ -1,4 +1,4 @@
-//Versione 3
+//Versione online
 public class Libro {
 
 	private String titolo;
