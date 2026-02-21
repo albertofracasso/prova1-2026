@@ -1,4 +1,4 @@
-//Versione PROVA FINALE
+//Versione PROVA FINALE-Da online a locale
 public class Libro {
 
 	private String titolo;
@@ -47,3 +47,4 @@ public class Libro {
 	}
 
 }
+
