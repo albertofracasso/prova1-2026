@@ -1,4 +1,4 @@
-//Versione 1
+//Versione 2
 public class Libro {
 
 	private String titolo;
